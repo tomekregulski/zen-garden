@@ -70,6 +70,7 @@ header h1 {
 	width: 219px;
 	height: 87px;
 	float: left;
+	padding: 2%;
 
 	text-indent: 100%;
 	white-space: nowrap;
